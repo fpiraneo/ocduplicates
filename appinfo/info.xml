@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<info>
+	<id>ocduplicates</id>
+	<name>ocduplicates</name>
+	<description>Hunt for duplicate files on your ownCloud space.</description>
+	<version>0.0.1</version>
+	<licence>GNU GPL Version 3</licence>
+	<author>Francesco PIRANEO G. (fpiraneo@gmail.com)</author>
+	<require>6</require>
+	<shipped>true</shipped>
+</info>
