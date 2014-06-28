@@ -55,7 +55,7 @@ class utilities {
                     $itemPath = 'files/' . $item['name'];
                 }
 
-                $itemRes = \OCA\OCLife\utilities::getFileList($user, $itemPath, $onlyID);
+                $itemRes = \OCA\OCDuplicates\utilities::getFileList($user, $itemPath, $onlyID);
             }            
             
             foreach($itemRes as $item) {
